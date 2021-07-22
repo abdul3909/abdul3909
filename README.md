@@ -30,7 +30,7 @@ You can find me on [![LinkedIn][1.2]][1], or on [![Twitter][2.2]][2].
 <!-- Links to your social media accounts -->
 
 [2]: https://twitter.com/a_basit390
-[1]: www.linkedin.com/in/abdul-basit-3909
+[1]: https://linkedin.com/in/abdul-basit-3909
 
 
 <!--
