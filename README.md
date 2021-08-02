@@ -19,6 +19,10 @@ My name is Abdul Basit. I am a Machine Learning enthusiast, quick learner and ke
 ![](https://img.shields.io/static/v1?label=Skills&message=Data_Science&color=<COLOR>)
 ![](https://img.shields.io/static/v1?label=Skills&message=Web_Development&color=<COLOR>)
 
+
+## Projects
+[My projects on Github](https://github.com/abdul3909/Projects.git)
+
 ## Social Accounts
 You can find me on [![LinkedIn][1.2]][1], or on [![Twitter][2.2]][2].
 
