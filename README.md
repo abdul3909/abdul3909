@@ -24,12 +24,12 @@ My name is Abdul Basit. I am a Machine Learning enthusiast, quick learner and ke
 [My projects on Github](https://github.com/abdul3909/Projects.git)
 
 ## Social Accounts
-You can find me on [![LinkedIn][1.2]][1], or on [![Twitter][2.2]][2].
+You can find me on [![LinkedIn][1.2]][1] or on [![Twitter][2.2]][2].
 
 <!-- Icons -->
 
-[2.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: twitter.png (twitter icon without padding)
+[1.2]: linkedin.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
