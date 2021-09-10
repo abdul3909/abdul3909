@@ -21,7 +21,9 @@ My name is Abdul Basit. I am a Machine Learning enthusiast, quick learner and ke
 
 
 ## Projects
-[My projects on Github](https://github.com/abdul3909/Projects.git)
+[My projects on Github](https://github.com/abdul3909/Projects.git)  
+
+[My machine learning projects on Github](https://github.com/abdul3909/Machine-Learning.git)
 
 ## Social Accounts
 You can find me on [![LinkedIn][1.2]][1] or on [![Twitter][2.2]][2].
