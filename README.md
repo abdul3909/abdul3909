@@ -15,9 +15,10 @@ My name is Abdul Basit. I am a Machine Learning enthusiast, quick learner and ke
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=appveyor&logoColor=%2303fce3&color=2bbc8a)
 
 ## Skills
-![](https://img.shields.io/static/v1?label=Skills&message=Machine_Learning&color=<COLOR>)
-![](https://img.shields.io/static/v1?label=Skills&message=Data_Science&color=<COLOR>)
-![](https://img.shields.io/static/v1?label=Skills&message=Web_Development&color=<COLOR>)
+![](https://img.shields.io/badge/Skills-Machine%20Learning-informational)
+![](https://img.shields.io/badge/Skills-Deep%20Learning-informational)
+![](https://img.shields.io/badge/Skills-Data%20Science-informational)
+![](https://img.shields.io/badge/Skills-Web%20Development-informational)
 
 
 ## Projects
