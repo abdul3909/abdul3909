@@ -1,5 +1,5 @@
 
-<img src="https://github.com/abdul3909/abdul3909/blob/main/FearlessQuarterlyCapeghostfrog.gif" width="1000" height="400"/>
+<img src="https://github.com/abdul3909/abdul3909/blob/main/FearlessQuarterlyCapeghostfrog.gif" width="800" height="400"/>
 
 
 ### Hello, Folks! 👋
