@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abdul.basit3909@gmail.com**
 
-- 📄 Know about my experiences [ Abdul-Basit-Resume](https://www.canva.com/design/DAFG17qxS7Y/llOvyW8-JsaHazp_BIkSSg/edit?utm_content=DAFG17qxS7Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [ Abdul-Basit-Resume](https://www.canva.com/design/DAFdQQUvuA4/yzJ0f1I0YdWygDr2n7-UrA/edit?utm_content=DAFdQQUvuA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
