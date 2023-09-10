@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **Python, C++**
 
-- 📫 How to reach me **abdul.basit3909@gmail.com**
-
-- 📄 Know about my experiences [ Abdul-Basit-Resume](https://www.canva.com/design/DAFdQQUvuA4/yzJ0f1I0YdWygDr2n7-UrA/edit?utm_content=DAFdQQUvuA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📫 How to reach me **ab.work786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
