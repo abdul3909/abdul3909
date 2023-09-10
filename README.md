@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/a_basit390" target="blank"><img src="https://img.shields.io/twitter/follow/a_basit390?logo=twitter&style=for-the-badge" alt="a_basit390" /></a> </p>
 
-- 🔭 I’m currently working as a **Data Science intern**
+- 🔭 I’m currently working as a **Data Scientist**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
